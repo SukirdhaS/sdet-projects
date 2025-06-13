@@ -1,0 +1,12 @@
+Login
+check that page contains "PIM"
+click "PIM"
+click "Add Employee"
+enter "Natasha" into "oxd-input oxd-input--active orangehrm-firstname"
+enter "Roman" into "oxd-input oxd-input--active orangehrm-lastname"
+enter stored value "Profile_pic" into input file "oxd-file-input"
+click "Save"
+check that page contains "Success"
+click "Employee List"
+Enter "Natasha Roman" into "Employee Name"
+click "Search"
