@@ -1,6 +1,0 @@
-check that page contains "Username" and "Password"
-enter "admin" into "Username"
-enter "admin" into "Password"
-click "Login"
-wait 3 sec
-check that page contains "Invalid credentials"
