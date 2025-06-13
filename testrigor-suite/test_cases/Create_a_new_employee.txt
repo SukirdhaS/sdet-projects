@@ -1,0 +1,11 @@
+Login
+check that page contains "PIM"
+click "PIM"
+click "Add Employee"
+enter "Tony" into "First Name" roughly below "Employee Full Name*"
+enter "Stark" into "Last Name" roughly above "Employee ID"
+enter stored value "Profile_pic" into input file "oxd-icon bi-plus"
+click "Save"
+click "Employee List"
+enter "Tony" into "Employee Name"
+click "Search"
