@@ -1,0 +1,56 @@
+UUID,Description,Custom Steps,Labels
+34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee,"Login
+check that page contains ""PIM""
+click ""PIM""
+click ""Add Employee""
+enter ""Tony"" into ""First Name"" roughly below ""Employee Full Name*""
+enter ""Stark"" into ""Last Name"" roughly above ""Employee ID""
+enter stored value ""Profile_pic"" into input file ""oxd-icon bi-plus""
+click ""Save"" 
+click ""Employee List""
+enter ""Tony"" into ""Employee Name""
+click ""Search""",Login
+34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee,"Login
+check that page contains ""PIM""
+click ""PIM""
+click ""Add Employee""
+enter ""Tony"" into ""First Name"" roughly below ""Employee Full Name*""
+enter ""Stark"" into ""Last Name"" roughly above ""Employee ID""
+enter stored value ""Profile_pic"" into input file ""oxd-icon bi-plus""
+click ""Save"" 
+click ""Employee List""
+enter ""Tony"" into ""Employee Name""
+click ""Search""",Login
+34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee,"Login
+check that page contains ""PIM""
+click ""PIM""
+click ""Add Employee""
+enter ""Tony"" into ""First Name"" roughly below ""Employee Full Name*""
+enter ""Stark"" into ""Last Name"" roughly above ""Employee ID""
+enter stored value ""Profile_pic"" into input file ""oxd-icon bi-plus""
+click ""Save"" 
+click ""Employee List""
+enter ""Tony"" into ""Employee Name""
+click ""Search""",Login
+34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee,"Login
+check that page contains ""PIM""
+click ""PIM""
+click ""Add Employee""
+enter ""Tony"" into ""First Name"" roughly below ""Employee Full Name*""
+enter ""Stark"" into ""Last Name"" roughly above ""Employee ID""
+enter stored value ""Profile_pic"" into input file ""oxd-icon bi-plus""
+click ""Save"" 
+click ""Employee List""
+enter ""Tony"" into ""Employee Name""
+click ""Search""",Login
+34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee,"Login
+check that page contains ""PIM""
+click ""PIM""
+click ""Add Employee""
+enter ""Tony"" into ""First Name"" roughly below ""Employee Full Name*""
+enter ""Stark"" into ""Last Name"" roughly above ""Employee ID""
+enter stored value ""Profile_pic"" into input file ""oxd-icon bi-plus""
+click ""Save"" 
+click ""Employee List""
+enter ""Tony"" into ""Employee Name""
+click ""Search""",Login
