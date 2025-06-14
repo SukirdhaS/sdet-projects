@@ -1,5 +1,5 @@
 UUID,Description,Custom Steps,Labels
-34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee,"Login
+34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee_01,"Login
 check that page contains ""PIM""
 click ""PIM""
 click ""Add Employee""
@@ -10,7 +10,7 @@ click ""Save""
 click ""Employee List""
 enter ""Tony"" into ""Employee Name""
 click ""Search""",Login
-34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee,"Login
+34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee_01,"Login
 check that page contains ""PIM""
 click ""PIM""
 click ""Add Employee""
@@ -21,7 +21,7 @@ click ""Save""
 click ""Employee List""
 enter ""Tony"" into ""Employee Name""
 click ""Search""",Login
-34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee,"Login
+34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee_01,"Login
 check that page contains ""PIM""
 click ""PIM""
 click ""Add Employee""
@@ -32,7 +32,7 @@ click ""Save""
 click ""Employee List""
 enter ""Tony"" into ""Employee Name""
 click ""Search""",Login
-34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee,"Login
+34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee_01,"Login
 check that page contains ""PIM""
 click ""PIM""
 click ""Add Employee""
@@ -43,7 +43,7 @@ click ""Save""
 click ""Employee List""
 enter ""Tony"" into ""Employee Name""
 click ""Search""",Login
-34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee,"Login
+34a2d682-8286-4247-92a4-fd1ae2eb7745,Create a new employee_01,"Login
 check that page contains ""PIM""
 click ""PIM""
 click ""Add Employee""
